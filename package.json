@@ -1,0 +1,19 @@
+{
+  "name": "sdc-lab-6",
+  "version": "1.0.0",
+  "description": "SDC Lab 06: OOP & Functional Programming in Modern Development with AI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test.js"
+  },
+  "keywords": [
+    "oop",
+    "functional-programming",
+    "immutability",
+    "node-test"
+  ],
+  "author": "Abdullah (FA23-BSE-137)",
+  "license": "ISC"
+}
