@@ -4,7 +4,8 @@
 **Student Name:** Abdullah  
 **Registration Number:** FA23-BSE-137  
 **Date:** October 22, 2026  
-**Environment:** Node.js v24.18.0 (Native `node:test` Runner)
+**Environment:** Node.js v24.18.0 (Native `node:test` Runner)  
+**GitHub Repository:** [https://github.com/Abdullah-Developer68/SDC-LAB-6](https://github.com/Abdullah-Developer68/SDC-LAB-6)
 
 ---
 
